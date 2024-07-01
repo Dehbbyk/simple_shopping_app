@@ -24,4 +24,4 @@ A simple shopping app that displays a list of products and a checkout screen.
 
 
 ## APK Download
-[Download APK](link-to-apk) 
+[Download APK](https://github.com/Dehbbyk/simple_shopping_app/releases/download/v1.0/app-release.apk) 
